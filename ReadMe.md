@@ -1,5 +1,5 @@
-# 👋 Hey there! Welcome to my GitHub profile, I'm Lawrence
-I'm a software developer located in Vancouver, Canada, and I have a strong interest in web development.<br><br>Outside of work, I enjoy hiking, golfing, and watching Netflix!
+# 👋 Hey there, I'm Lawrence!
+Welcome to my GitHub profile.<br><br>I'm a software developer located in Vancouver, Canada, and I have a strong interest in web development.<br><br>Outside of work, I enjoy hiking, golfing, and watching Netflix!
 
 
 ## 🌐 Socials:
